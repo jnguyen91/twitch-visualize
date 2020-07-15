@@ -1,3 +1,3 @@
-Data visualization using Matplotlib
+# Data visualization using Matplotlib
 
 ![](screenshots/bar_graph.PNG)
